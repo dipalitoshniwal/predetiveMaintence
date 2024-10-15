@@ -53,6 +53,8 @@ To begin using the Email Marketing Content Assistant, simply visit the web app: 
 7. Review and fine-tune the generated content to match your vision.
 8. Download or copy the generated email sequence for use in your email marketing campaign.
 
+
+
 ## To Run Locally
 
 1. Clone the Repository:
